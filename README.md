@@ -80,9 +80,6 @@ We present comprehensive results of our drone detection model's performance on b
 
 <img  src="https://raw.githubusercontent.com/doguilmak/Drone-Detection-YOLOv7/main/results/results.png" width=1000  height=400 alt="github.com/doguilmak/"/>
 
-<img  src="https://github.com/doguilmak/Drone-Detection-YOLOv7/blob/main/results/F1_curve.png?raw=true" width=1000  height=400 alt="github.com/doguilmak/"/>
-
-  
 
 ## Conclusion
 
