@@ -54,7 +54,7 @@ To train and evaluate our drone detection model, we utilize the Colab platform, 
 * **Training**: YOLO is trained using a combination of labeled bounding box annotations and classification labels. The training process involves optimizing the network to minimize the localization loss (related to the accuracy of bounding box predictions) and the classification loss (related to the accuracy of class predictions).  
 
 * **Speed and Accuracy Trade-off**: YOLO achieves real-time object detection by sacrificing some localization accuracy compared to slower methods like Faster R-CNN. However, it still achieves competitive accuracy while providing significantly faster inference speeds, making it well-suited for real-time applications. 
-* 
+ 
 <br>  
 
 Since its introduction, YOLO has undergone several improvements and variations. Different versions such as YOLOv2, YOLOv3, and YOLOv4 have been developed, each introducing enhancements in terms of accuracy, speed, and additional features.  
