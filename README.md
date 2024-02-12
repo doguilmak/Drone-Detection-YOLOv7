@@ -94,6 +94,12 @@ Moving forward, further research can be conducted to explore the integration of 
 
 <br>
 
+### Drone Detection with YOLOv8x
+
+In addition to this work, I have also developed a drone detection model using YOLOv8x. You can find that project or repository [here](https://github.com/doguilmak/Drone-Detection-YOLOv8x).
+
+<br>
+
 ## Contact Me
 
 If you have something to say to me please contact me:
