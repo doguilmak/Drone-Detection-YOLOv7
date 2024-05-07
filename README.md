@@ -77,13 +77,11 @@ It's important to note that this is a high-level overview of YOLO, and the algor
 
 ## Results and Discussion
 
-We present comprehensive results of our drone detection model's performance on both the training and testing datasets. The evaluation metrics include precision, recall, and F1-score, which are standard measures to assess the model's detection accuracy. 
+We present comprehensive results of our drone detection model's performance on both the training and testing datasets. The evaluation metrics include precision, recall, and F1-score, which are standard measures to assess the model's detection accuracy. Additionally, we analyze the model's performance across various environmental conditions and discuss its strengths and limitations.
 
 <img  src="https://raw.githubusercontent.com/doguilmak/Drone-Detection-YOLOv7/main/results/results.png" width=1000  height=400 alt="github.com/doguilmak/"/>
 
-Additionally, we analyze the model's performance across various environmental conditions and discuss its strengths and limitations.
-
-![Drone Detection GIF](https://github.com/doguilmak/Drone-Detection-YOLOv7/blob/main/detect/drone_detect_YOLOv7x.gif)
+<img  src="https://github.com/doguilmak/Drone-Detection-YOLOv7/blob/main/detect/drone_detect_YOLOv7x.gif" width=1000  height=400 alt="github.com/doguilmak/"/>
 
 *Drone detection prediction using YOLOv7x. Video footage by Nino Souza, sourced from Pexels.*
 
