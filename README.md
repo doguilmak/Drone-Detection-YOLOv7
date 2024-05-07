@@ -81,7 +81,9 @@ We present comprehensive results of our drone detection model's performance on b
 
 <img  src="https://raw.githubusercontent.com/doguilmak/Drone-Detection-YOLOv7/main/results/results.png" width=1000  height=400 alt="github.com/doguilmak/"/>
 
-<img  src="https://github.com/doguilmak/Drone-Detection-YOLOv7/blob/main/detect/drone_detect_YOLOv7x.gif" width=1000  height=400 alt="github.com/doguilmak/"/>
+<br>
+
+<img  src="https://github.com/doguilmak/Drone-Detection-YOLOv7/blob/main/detect/drone_detect_YOLOv7x.gif" width=1000  height=500 alt="github.com/doguilmak/"/>
 
 *Drone detection prediction using YOLOv7x. Video footage by Nino Souza, sourced from Pexels.*
 
