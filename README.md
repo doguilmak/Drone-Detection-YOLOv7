@@ -83,13 +83,11 @@ We present comprehensive results of our drone detection model's performance on b
 
 <br>
 
+## Conclusion
+
 <img  src="https://github.com/doguilmak/Drone-Detection-YOLOv7/blob/main/detect/drone_detect_YOLOv7x.gif" width=1000  height=500 alt="github.com/doguilmak/"/>
 
 *Drone detection prediction using YOLOv7x. Video footage by Nino Souza, sourced from Pexels.*
-
-<br>
-
-## Conclusion
 
 Our research addresses the critical need for reliable drone detection systems by proposing a comprehensive dataset and a state-of-the-art detection model using the YOLOv7 architecture. The availability of our curated dataset and the promising performance of our model offer valuable contributions to the field of drone detection. The outcomes of this study can pave the way for enhanced security measures and privacy protection in areas where drones pose potential risks.
 
