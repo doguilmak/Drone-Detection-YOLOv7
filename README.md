@@ -35,7 +35,7 @@ To facilitate the development and evaluation of drone detection models, we intro
 
 In this study, we employ the YOLOv7 architecture, a popular and highly efficient object detection framework, for drone detection. YOLOv7 stands for "You Only Look Once" version 7, which utilizes a single neural network to simultaneously predict bounding boxes and class probabilities for multiple objects in an image. This architecture offers real-time performance, making it ideal for drone detection applications.
 
-To enhance the model's performance and leverage pre-trained weights, we utilize the [HuggingFace repository](https://huggingface.co/doguilmak/Drone-Detection-YOLOv7) 🤗 for accessing the pre-trained weights file. These weights have been pre-trained on a large dataset and fine-tuned for optimal accuracy, allowing for faster convergence and improved detection capabilities when used for drone detection tasks.
+To enhance the model's performance and leverage pre-trained weights, we utilize the [HuggingFace repository](https://huggingface.co/doguilmak/Drone-Detection-YOLOv7/tree/main/weight) 🤗 for accessing the pre-trained weights file. These weights have been pre-trained on a large dataset and fine-tuned for optimal accuracy, allowing for faster convergence and improved detection capabilities when used for drone detection tasks.
 
 <br>
 
